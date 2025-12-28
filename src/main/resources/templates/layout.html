@@ -28,10 +28,10 @@
         <nav>
             <ul class="nav nav-pills float-end">
                 <li class="nav-item">
-                    <a class="nav-link" th:classappend="${#httpServletRequest.getRequestURI() == '/posts' ? 'active' : ''}" href="/posts">Home</a>
+                    <a class="nav-link" th:classappend="${#httpServletRequest != null && #httpServletRequest.getRequestURI() == '/posts' ? 'active' : ''}" href="/posts">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" th:classappend="${#httpServletRequest.getRequestURI() == '/posts/new' ? 'active' : ''}" href="/posts/new">New Post</a>
+                    <a class="nav-link" th:classappend="${#httpServletRequest != null && #httpServletRequest.getRequestURI() == '/posts/new' ? 'active' : ''}" href="/posts/new">New Post</a>
                 </li>
             </ul>
         </nav>

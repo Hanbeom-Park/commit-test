@@ -13,7 +13,7 @@ A simple bulletin board system built with Spring Boot and Spring MVC.
 
 ## Technologies Used
 
-- Spring Boot 4.0.1
+- Spring Boot 3.2.2
 - Spring MVC
 - Spring Data JPA
 - H2 Database
