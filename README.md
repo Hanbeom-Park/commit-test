@@ -67,3 +67,20 @@ The application is pre-loaded with sample posts to demonstrate functionality.
 - `controller`: Contains the controllers for handling HTTP requests
 - `config`: Contains configuration classes
 - `templates`: Contains Thymeleaf templates for the views
+
+## Changelog
+
+**Period:** 2025-12-21 ~ 2025-12-28
+
+### ✨ Features
+
+- feat: 기능 추가 (3a5051a) - @Hanbeom-Park
+- add: add .gitignore (30dffcd) - @Hanbeom-Park
+
+### 🔧 Chores
+
+- chore: .gitignore 수정 (757970a) - @Hanbeom-Park
+
+### 📦 Other Changes
+
+- 수정 (ee791b8) - @Hanbeom-Park
