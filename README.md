@@ -78,11 +78,19 @@ The application is pre-loaded with sample posts to demonstrate functionality.
 
 ### 📅 2025-12-28
 
+**`14:37`** | `e1abb92` | @Hanbeom-Park
+
+**docs: Update changelog (2025-12-28)**
+
+> 이 커밋은 `README.md` 파일의 변경 로그(changelog)를 갱신합니다. 기존 기능 추가 항목을 삭제하고 새로운 내용으로 대체하거나 재구성하는 등 전반적인 변경 사항이 포함됩니다.
+
+---
+
 **`14:29`** | `61a7102` | @Hanbeom-Park
 
 **docs: Update changelog (2025-12-28)**
 
-> 이 커밋은 2025년 12월 28일 기준으로 변경 기록(changelog)을 업데이트합니다. 구체적으로 README.md 파일의 변경 내용에는 AI 분석 요약 섹션이 추가되었으며, 기능(feat) 관련 내용을 포함하고 있습니다.
+> 이 커밋은 `README.md` 파일의 변경 로그를 업데이트했습니다. 2025년 12월 21일부터 12월 28일까지의 변경사항에 대해 AI가 분석한 요약을 추가하고, 기존의 `feat: 기능 추가`와 같은 항목을 새로운 기능(`✨ Features`) 섹션으로 대체했습니다.
 
 ---
 
@@ -90,7 +98,7 @@ The application is pre-loaded with sample posts to demonstrate functionality.
 
 **docs: Update changelog (2025-12-28)**
 
-> docs: Update changelog (2025-12-28)
+> 이 커밋은 `README.md` 파일에 변경 로그 내용을 추가하여 갱신했습니다. 총 17줄의 새로운 내용이 더해졌습니다.
 
 ---
 
@@ -98,7 +106,7 @@ The application is pre-loaded with sample posts to demonstrate functionality.
 
 **수정**
 
-> 수정
+> 이 커밋은 Spring Boot 프레임워크 버전을 4.0.1에서 3.2.2로 변경했습니다. 또한, `layout.html` 파일에서 탐색 링크의 CSS 클래스 적용 로직을 수정했습니다.
 
 ---
 
@@ -106,7 +114,7 @@ The application is pre-loaded with sample posts to demonstrate functionality.
 
 **feat: 기능 추가**
 
-> feat: 기능 추가
+> 이 커밋은 Spring Boot와 Spring MVC를 활용한 새로운 게시판 시스템 프로젝트를 초기화합니다. 프로젝트의 빌드 설정, 실행 스크립트, 그리고 기본적인 애플리케이션 구조를 포함한 초기 개발 환경이 구성되었습니다.
 
 ---
 
@@ -114,7 +122,7 @@ The application is pre-loaded with sample posts to demonstrate functionality.
 
 **chore: .gitignore 수정**
 
-> chore: .gitignore 수정
+> 이 커밋은 `.gitignore` 파일에서 기존의 특정 한 줄을 삭제하고 새로운 한 줄로 교체했습니다. 이는 아마도 기존의 무시 규칙을 수정하거나 업데이트하기 위한 변경으로 보입니다.
 
 ---
 
@@ -122,6 +130,6 @@ The application is pre-loaded with sample posts to demonstrate functionality.
 
 **add: add .gitignore**
 
-> 이 커밋은 Java, Gradle, IntelliJ 개발 환경에 필요한 .gitignore 파일을 추가했습니다. 이 파일은 빌드 파일, IDE 설정 파일 등 불필요한 파일들을 Git 추적에서 제외하여 저장소를 깔끔하게 유지하는 데 도움이 됩니다.
+> 이 커밋은 자바, Gradle, IntelliJ 프로젝트에서 Git이 추적하지 않아야 할 파일들을 명시하는 `.gitignore` 파일을 새로 추가했습니다. 이 파일은 프로젝트 관련 불필요한 파일들이 커밋되는 것을 방지합니다.
 
 ---
